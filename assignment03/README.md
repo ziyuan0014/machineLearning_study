@@ -50,5 +50,4 @@ top10_ci_genes = ['LOC105372578','MCEMP1','MMP9','SOCS3','ANXA3','G0S2','IL1R2',
 
 - numpy
 - pandas
-- matplotlib
 - sklearn
