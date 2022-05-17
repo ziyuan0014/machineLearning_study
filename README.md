@@ -12,3 +12,7 @@
 **assignment03：**RNA-seq
 
 练习pandas的基本操作，尝试使用5x cross validation。
+
+**assignment04：**CrossValidation
+
+了解几种常见的交叉验证方法，使用GridSearchCV工具选择最佳的模型参数。
