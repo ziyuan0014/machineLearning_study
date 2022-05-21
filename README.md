@@ -16,3 +16,7 @@
 **assignment04：**CrossValidation
 
 了解几种常见的交叉验证方法，使用GridSearchCV工具选择最佳的模型参数。
+
+**assignment05：**Visualize 
+
+了解常用的可视化方法，并能根据所绘制的图进行讨论。
